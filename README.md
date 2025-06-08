@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**ZeinabFadaeian1386/ZeinabFadaeian1386** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+من یک توسعه‌دهنده‌م که با `console.log("😂")` می‌خنده و با `undefined is not a function` اشک می‌ریزه.
 
-Here are some ideas to get you started:
+🧠 از وقتی که Hello World رو نوشتم، دیگه خواب ندیدم.  
+☕ کدم رو با قهوه و اشک‌های دیباگ شیرین می‌کنم.  
+💻 پروژه‌هام یا کار می‌کنن یا با تهدید به کار کردن میان.  
+🐞 باگ‌هام رو بیشتر از گلدون خونمون دوست دارم (چون همیشه هستن).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+ 👾 حال‌و‌هوای من وقتی کد می‌زنم:
+
+![Coding Gif](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
+---
+
